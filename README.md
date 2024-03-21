@@ -21,13 +21,13 @@ This project is a Java-based command-line quiz application developed for a colle
 1. Clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/your_username/java-quiz-app.git
+git clone https://github.com/NithyaVaibhavi/Java-QuizApp.git
 ```
 
 2. Compile the Java files:
 
 ```bash
-cd java-quiz-app
+cd Java-QuizApp
 javac *.java
 ```
 
