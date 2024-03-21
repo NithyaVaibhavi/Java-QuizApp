@@ -1,4 +1,4 @@
-# College Project: Command-Line Quiz Application
+Quiz Application
 
 ## Introduction
 
